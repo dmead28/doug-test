@@ -1,6 +1,6 @@
 Doug's Test App
 ---
 
-# About
+# About Doug's App
 
-Stuff about my app here...
+This app is not real.
