@@ -1,6 +1,7 @@
 Doug's Test App
 ---
 
-# About
+# About Doug's App
 
+This app is not real.
 Make changes locally.
